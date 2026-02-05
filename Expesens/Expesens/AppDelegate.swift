@@ -1,10 +1,3 @@
-//
-//  AppDelegate.swift
-//  Expesens
-//
-//  Created by Artemiy on 05.02.2026.
-//
-
 import UIKit
 
 @main
